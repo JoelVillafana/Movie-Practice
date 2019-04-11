@@ -1,0 +1,15 @@
+h2 {
+	color: purple;
+	font-family: "Georgia", "Andale Mono", sans-serif; 
+}
+p {
+	color: magenta;
+	font-family: "Helvetica", sans-serif;
+	font-size: 14pt;
+	font-style: italic;
+	font-weight: bold;
+    }
+img {
+    width: 500px;
+    height: 800px; 
+ }
